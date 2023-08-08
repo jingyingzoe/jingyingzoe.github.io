@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>陳靜瑩網站</title>
-    <link>https://jingyingzoe.github.io/</link>
-    <description>Recent content on 陳靜瑩網站</description>
+    <title>Blogs on 陳靜瑩網站</title>
+    <link>https://jingyingzoe.github.io/blog/</link>
+    <description>Recent content in Blogs on 陳靜瑩網站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 29 Jul 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://jingyingzoe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jul 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://jingyingzoe.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第二</title>
       <link>https://jingyingzoe.github.io/blog/second.post/</link>
